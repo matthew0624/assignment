@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: '나눔 고딕', 'NanumGothic', '맑은 고딕', 'Ghothic';
+}
+
+#main-header {
+  padding: 20px 50px 20px 30px;
+}
+
+.master-title {
+  font-size: 40px;
+  color: #181818;
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
+
+li {
+  list-style: none;
+
+}
+
+a {
+  margin: 0 0 0 8px;
+  font-size: 15px;
+  color: #FFFFFF;
+  text-decoration: none;
+  font-family: "Comic Sans MS";
+}
+
+#page-wrapper {
+  background-color: #FFFFFF;
+  margin: 40px 0 0 0;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+}
+
+#main-navigation {
+  border-top: solid 1px #FFFFFF;
+  border-bottom: : solid 1px #FFFFFF;
+  margin: 0 0 20px 0;
+  height: 40px;
+
+}
+
+.outer-menu-item {
+  float: left;
+}
+
+.comic {
+  font-family: "Comic Sans MS";
+}
+.footer{
+  text-align: left;
+}
+
+
+
+td {
+  background-color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+
+.name {
+  font-size: 160%;
+  font-family: verdana;
+  background-color: yellow;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("imgs/back.jpg");
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: white;
+}
+
+div{
+  font-size: 13px;
+  background-color: #808080;
+}

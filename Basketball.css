@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: '나눔 고딕', 'NanumGothic', '맑은 고딕', 'Ghothic';
+}
+
+.comic {
+  font-family: "Comic Sans MS";
+  color: red;
+}
+
+.name {
+  color: white;
+}
+
+table {
+  border-radius: 5px;
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
+
+#main-navigation {
+  border-top: solid 1px #C8C8C8;
+  border-bottom: : solid 1px #C8C8C8;
+  margin: 0 0 0 0;
+  height: 40px;
+}
+
+.outer-menu-item {
+  float: left;
+}
+
+.menu-title {
+  display: block;
+  height: 30px;
+  text-align: center;
+  padding: 5px 20px 5px 20px;
+  color: white;
+}
+
+a {
+  margin: 0 0 0 8px;
+  font-size: 13px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+#main-header {
+  padding: 20px 50px 20px 30px;
+}
+
+.master-title {
+  font-size: 30px;
+  color:red;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
+
+a:active {
+  color: red;
+}
+
+footer {
+  border-top: solid 1px #FFFFFF;
+  font-size: 13px;
+  color: #FFFFFF;
+}
+
+#page-wrapper {
+  background-image: url("imgs/NBA.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 40px 0 0 0;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+}
